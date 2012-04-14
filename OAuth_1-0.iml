@@ -8,6 +8,9 @@
             <entry library-name="lib" library-level="project">
               <dependency linkage="Merged" />
             </entry>
+            <entry library-name="swc" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
           </entries>
           <sdk name="flex_sdk_4.6_air_3.1" />
         </dependencies>
@@ -21,12 +24,13 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/Development/flex">
+    <content url="file://$MODULE_DIR$/Development/flex/trunk/src">
       <sourceFolder url="file://$MODULE_DIR$/Development/flex/trunk/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="flex_sdk_4.6_air_3.1" jdkType="__CompositeFlexSdk__" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="swc" level="project" />
   </component>
 </module>
 
