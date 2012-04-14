@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Development/flex/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Development/flex/lib" />
+    </SOURCES>
+  </library>
+</component>
